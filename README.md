@@ -12,18 +12,15 @@
 </p>
 
 - 🔭 I’m currently working on **Fluttering Pages**
-
 - 🌱 I’m currently learning **Qwik js**
-
 - 💬 Ask me about **Experience design & React**
-
 - 📫 How to reach me **luffyshiyamal@gmail.com**
-
 - ⚡ Fun fact **Looks boring, but I ain't :)  P.S. desgin venuma design iruku... dev venuma dev iruku xd **
-  
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/shiyamalkumar" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiyamal kumar" height="30" width="40" />
     </a>
@@ -32,8 +29,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
+<h3 align="center">Languages:</h3>
+<p align="center"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
@@ -45,8 +42,8 @@
     </a>
 </p>
 
-<h3 align="left">Frameworks and Libraries:</h3>
-<p align="left"> 
+<h3 align="center">Frameworks and Libraries:</h3>
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
@@ -64,8 +61,8 @@
     </a> 
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
+<h3 align="center">Tools:</h3>
+<p align="center"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -83,8 +80,8 @@
     </a> 
 </p>
 
-<h3 align="left">Backend and Databases:</h3>
-<p align="left"> 
+<h3 align="center">Backend and Databases:</h3>
+<p align="center"> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
@@ -99,8 +96,8 @@
     </a>
 </p>
 
-<h3 align="left">Other:</h3>
-<p align="left"> 
+<h3 align="center">Other:</h3>
+<p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
@@ -129,11 +126,11 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a> 
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif">
 
-  
-
 <div align="center">
+    <h3>Statistics</h3>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samjason03&show_icons=true&locale=en&layout=compact" alt="samjason03" />
     </p>
@@ -143,13 +140,13 @@
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samjason03&" alt="samjason03" />
     </p>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif">
-    <h3 align="center">Statistics</h3>
-    <a href="https://github.com/Samjason03">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samjason03&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samjason03&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samjason03&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samjason03&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samjason03&theme=2077" height="180em" />
-    </a>
+    <p>
+        <a href="https://github.com/Samjason03">
+            <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samjason03&theme=2077" height="180em" />
+            <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samjason03&theme=2077" height="180em" />
+            <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samjason03&theme=2077" height="180em" />
+            <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samjason03&theme=2077" height="180em" />
+            <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samjason03&theme=2077" height="180em" />
+        </a>
+    </p>
 </div>
